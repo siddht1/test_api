@@ -1,0 +1,16 @@
+{
+  "id": "chat_123",
+  "timestamp": "2022-05-17T09:30:00Z",
+  "model": "gpt-3.5-turbo",
+  "result": {
+    "id": "completion_456",
+    "prompt": "Tell me a joke.",
+    "choices": [
+      {
+        "message": {
+          "content": "Why don't scientists trust atoms? Because they make up everything!"
+        }
+      }
+    ]
+  }
+}
