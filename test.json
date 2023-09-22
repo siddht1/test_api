@@ -1,0 +1,8 @@
+{
+  "response_type": "text",
+  "message": "This is a dummy response for testing purposes.",
+  "data": {
+    "user": "John",
+    "timestamp": "2022-10-01T15:30:00Z"
+  }
+}
